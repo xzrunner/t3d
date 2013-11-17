@@ -1,0 +1,6 @@
+*.suo
+*.ncb
+*.user
+project/bin/
+.svn/
+project/projects/ERROR.TXT
